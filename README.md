@@ -1,5 +1,5 @@
 
-# EMG tested calisthenics workouts by Ryan Humiston 
+# EMG tested calisthenics exercises by Ryan Humiston 
 
 ## Here’s Why Your Lower Chest Sucks…
 Dec 8, 2022
