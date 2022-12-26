@@ -12,11 +12,15 @@ Dips:
 | --------------- |
 | <img src="https://user-images.githubusercontent.com/95906104/209579548-5edcb054-c773-403f-9d5e-da502843ce00.png" width= "20%" height= "20%" > |
 | <img src="https://user-images.githubusercontent.com/95906104/209579553-f433cfed-2d87-47e9-b073-1921575b8b3c.png" width= "50%" height= "50%" > |
-### Rock back and forth and Lean forward
+| Pect. major low insert rt 538 <br>Pect. major low orig rt 219 <br>Pect. major mid rt 212 |
+
+
+### Rock back and forth and Lean forward and Straight
 
 |Rock back and forth|Lean forward|Straight=bad|
 | ------------- | ------------- | ------------- |
 |<img src="https://user-images.githubusercontent.com/95906104/209580231-0dd7dd4d-439d-4bb5-a531-1d2fba3b5490.png" >  | <img src="https://user-images.githubusercontent.com/95906104/209580120-e3cbb16a-9dc1-4d6f-a539-cb2b851f967d.png" >            | <img src="https://user-images.githubusercontent.com/95906104/209580402-226c1f98-11b8-4372-a927-1cbafbc8b300.png" >  |
+| Pect. major low insert rt 230<br>Pect. major low orig rt 272<br>Pect. major mid rt 173 | Pect. major low insert rt 359<br>Pect. major low orig rt 480<br>Pect. major mid rt 381 | Pect. major low insert rt 222<br>Pect. major low orig rt 281<br>Pect. major mid rt 175 |
 
 ## You're Training Triceps WRONG | Backed by SCIENCE! 
 https://www.youtube.com/watch?v=KtYVMWx2iAg
@@ -31,4 +35,6 @@ This one is easy to tell just by looking at the signals themselves. The close gr
 |Close grip push-ups|Old-fashioned dips|Barbell dips|
 | ------------- | ------------- | ------------- |
 |<img src="https://user-images.githubusercontent.com/95906104/209585668-335a554c-49bc-49ee-aa53-0e03f556c32a.png" >  | <img src="https://user-images.githubusercontent.com/95906104/209585674-67a9ebd9-a0a4-4378-b82a-84e592fa800a.png" >            | <img src="https://user-images.githubusercontent.com/95906104/209585910-cf21a0cf-5002-485f-9e5a-6d31900d31ce.png" >  |
+| Lat. triceps rt (347.0 uV) 54.1<br>Long. triceps rt (345.7 uV) 40.2<br>Med. triceps rt (195.2 uV) 50.5 | Lat. triceps rt (330.2 uV) 76.2<br>Long. triceps rt (489.9 uV) 119.6<br>Med. triceps rt (262.7 uV) 71.8 | Lat. triceps rt (1334.3 uV) 81.5<br>Long. triceps rt (2137.1 uV) 3.4<br>Med. triceps rt (976.7 uV) 40.2 |
+
 
