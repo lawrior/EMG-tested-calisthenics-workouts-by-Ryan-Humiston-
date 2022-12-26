@@ -9,5 +9,5 @@ To summarize, dips are the best when you **rock back and forth** or **lean forwa
 
 ### Barbell dips
 <img src="https://user-images.githubusercontent.com/95906104/209579548-5edcb054-c773-403f-9d5e-da502843ce00.png" width= "30%" height= "30%">          
-<img src="https://user-images.githubusercontent.com/95906104/209579553-f433cfed-2d87-47e9-b073-1921575b8b3c.png" width= "30%" height= "30%">
+<img src="https://user-images.githubusercontent.com/95906104/209579553-f433cfed-2d87-47e9-b073-1921575b8b3c.png" width= "50%" height= "50%">
 
